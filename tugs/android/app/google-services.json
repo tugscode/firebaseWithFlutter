@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959574643326",
+    "project_id": "tugscode-1a450",
+    "storage_bucket": "tugscode-1a450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959574643326:android:142cc543512eebd3d67e2f",
+        "android_client_info": {
+          "package_name": "com.example.tugs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959574643326-1rbov9jmlp3i05rh8o88r24c3rk4dce7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvP3AnhzDlI7D3gyTmr_XtnCD83Mc9TWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959574643326-1rbov9jmlp3i05rh8o88r24c3rk4dce7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
